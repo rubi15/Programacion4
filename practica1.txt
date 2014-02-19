@@ -1,0 +1,61 @@
+<htlm>
+<head>
+<body>
+
+<center>Practica 1<h1></center>
+
+<center><img src="Faro.jpg"></center>
+
+<p>Todo mundo quiere tener un amigo, 
+pocos se toman la molestia de ser uno.<br>
+</p>
+
+<p>Tu significas para mi más 
+de lo que las palabras pudieran expresar.<br>
+</p>
+
+<p>La amistad nace del corazón y 
+muere persiguiendo un amor...<br>
+</p>
+
+<a href="http://www.facebook.com">
+facebook
+<a/><br>
+
+<a href="http://www.google.com">
+google
+</a><br>
+
+<a href="http://www.youtube.com">
+youtube
+</a><br>
+
+
+<ul>
+<li> musica</li>
+<li> fraces</li>
+<li> imagenes</li>
+</ul>
+
+
+<table>
+<tr>
+
+<td> unidad 1</td>
+<td> unidad 2</td>
+<td> unidad 3</td>
+
+</tr>
+
+<tr>
+
+<td> unidad 4</td>
+<td> unidad 5</td>
+<td> unidad 6</td>
+
+</tr>
+
+
+</head>
+</body>
+</html>
